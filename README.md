@@ -1,2 +1,2 @@
-# week-07-classword-thursday
+# week-07-classwork-thursday
 Array filter, map reduce and chaining them all together
