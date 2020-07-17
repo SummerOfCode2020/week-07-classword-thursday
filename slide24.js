@@ -3,5 +3,5 @@ const reVal = arr.map((n) => {
   return n * 2
 })
 
-console.log(retVal)
+console.log(reVal)
 console.log(arr)

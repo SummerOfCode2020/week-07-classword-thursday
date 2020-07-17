@@ -5,6 +5,5 @@ const students = [
   { name: 'Edgar', gpa: 3.2, gradYear: 2020 },
 ]
 
-const names = students.map((student) => student.name)
-
+const names = students.map((students) => {return students.name})
 console.log(names)
