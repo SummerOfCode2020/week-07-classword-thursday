@@ -4,11 +4,6 @@ const students = [
   { name: 'Tasha', gpa: 3.8, gradYear: 2022 },
   { name: 'Edgar', gpa: 3.2, gradYear: 2020 },
 ]
-
-function getNameOnly(student) {
-  return student.name
-}
-
-const names = students.map(getNameOnly)
-
-console.log(names)
+                
+const names = students.map((students) => students.name)
+console.log({names})
