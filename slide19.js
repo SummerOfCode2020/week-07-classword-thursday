@@ -13,7 +13,7 @@ const sources = ['🐮','🥔','🐓','🌽']
 const cook = (item) => {
     let result = '🕸'
     
- /*
+ 
     switch (item) {
         case '🐮':
             result = '🍔'
@@ -28,7 +28,6 @@ const cook = (item) => {
             result = '🍿'
             break
     }
-    */
 // change switch statement to an equivalent
     return result
 }
